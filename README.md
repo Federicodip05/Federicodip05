@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is Federico, but you can call me Fede </h2>
+<h2 align="left">Hi!👋 My name is Federico, but you can call me Fede 🙌</h2>
 
 <h3 align="left">💻 I'm a <em>Sowtware Developer</em> from Buenos Aires, Argentina</h3>
 

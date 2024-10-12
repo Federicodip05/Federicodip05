@@ -3,7 +3,7 @@
 <h3 align="left">💻 I'm a <em>Sowtware Developer</em> from Buenos Aires, Argentina</h3>
 
 
-In my +2 years of experience,I have specialized in developing applications using Java, Spring Boot, Angular, and so on. I am also experienced in integrating web applications using tools such as Grafana, GitHub, Nexus, and Jenkins. I enjoy working in a team to solve challenges!
+In my +3 years of experience,I have specialized in developing applications using Java, Spring Boot, Angular, and so on. I am also experienced in integrating web applications using tools such as Grafana, GitHub, Nexus, and Jenkins. I enjoy working in a team to solve challenges!
 
 - 🔭 &nbsp;&nbsp;I’m currently working at Hospital Italiano de Buenos Aires. <br/>
 - 🌱 &nbsp;&nbsp;I’m currently learning Kafka and Go.<br/>

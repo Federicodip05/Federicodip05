@@ -5,8 +5,11 @@
 
 In my +3 years of experience,I have specialized in developing applications using Java, Spring Boot, Angular, and so on. I am also experienced in integrating web applications using tools such as Grafana, GitHub, Nexus, and Jenkins. I enjoy working in a team to solve challenges!
 
+I have developed <a href="https://raquisvr.vercel.app/">RaquisVR</a>, a virtual reality simulator designed for surgical training in the technique of pedicle screw insertion in the lumbar spine. It combines VR technology and high-precision haptic devices to provide an immersive and safe experience, specifically aimed at resident physicians and junior surgeons.
+
 - 🔭 &nbsp;&nbsp;I’m currently working at Hospital Italiano de Buenos Aires. <br/>
 - 🌱 &nbsp;&nbsp;I’m currently learning Kafka and Go.<br/>
+- 📄 &nbsp;&nbsp;My <a href="https://drive.google.com/file/d/1OhYg2izi2qPXB1RHeBJxRY8xCEtiZDC9/view?usp=sharing">Resume</a> for more details about work experience.
 
 ### 🛠️ &nbsp;&nbsp;Languages and tools:
 

@@ -7,7 +7,6 @@ In my +3 years of experience,I have specialized in developing applications using
 
 - 🔭 &nbsp;&nbsp;I’m currently working at Hospital Italiano de Buenos Aires. <br/>
 - 🌱 &nbsp;&nbsp;I’m currently learning Kafka and Go.<br/>
-- 😄 &nbsp;&nbsp;Pronouns are He|Him.
 
 ### 🛠️ &nbsp;&nbsp;Languages and tools:
 

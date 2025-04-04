@@ -1,6 +1,6 @@
 <h2 align="left">Hi!👋 My name is Federico, but you can call me Fede 🙌</h2>
 
-<h3 align="left">💻 I'm a <Sowtware Engineer /em> from Buenos Aires, Argentina</h3>
+<h3 align="left">💻 I'm a <em>Sowtware Engineer</em> from Buenos Aires, Argentina</h3>
 
 
 In my +3 years of experience, I have specialized in microservices architecture and AI-driven solutions. I have contributed to the development of scalable and secure systems using Spring Boot, Docker, and DevOps pipelines, optimizing deployment and monitoring in production. I also have experience in developing full-stack applications with Angular, ensuring seamless integration between frontend and backend. I enjoy working in a team to solve challenges!

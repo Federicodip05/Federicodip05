@@ -9,7 +9,7 @@ I have developed <a href="https://raquisvr.vercel.app/">RaquisVR</a>, a virtual 
 
 - 🔭 &nbsp;&nbsp;I’m currently working at Hospital Italiano de Buenos Aires. <br/>
 - 🌱 &nbsp;&nbsp;I’m currently learning Kafka and Go.<br/>
-- 📄 &nbsp;&nbsp;My <a href="https://drive.google.com/file/d/1OhYg2izi2qPXB1RHeBJxRY8xCEtiZDC9/view?usp=sharing">Resume</a> for more details about work experience.
+- 📄 &nbsp;&nbsp;My <a href="https://drive.google.com/file/d/1UGEfm-cZWA-YhjiExjp6qIdWWKiirGH2/view?usp=sharing">Resume</a> for more details about work experience.
 
 ### 🛠️ &nbsp;&nbsp;Languages and tools:
 

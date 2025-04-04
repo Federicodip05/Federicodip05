@@ -1,9 +1,9 @@
 <h2 align="left">Hi!👋 My name is Federico, but you can call me Fede 🙌</h2>
 
-<h3 align="left">💻 I'm a <em>Bioengineer</em> and <em>Sowtware Developer</em> from Buenos Aires, Argentina</h3>
+<h3 align="left">💻 I'm a <Sowtware Engineer</em> from Buenos Aires, Argentina</h3>
 
 
-In my +3 years of experience,I have specialized in developing applications using Java, Spring Boot, Angular, and so on. I am also experienced in integrating web applications using tools such as Grafana, GitHub, Nexus, and Jenkins. I enjoy working in a team to solve challenges!
+In my +3 years of experience, I have specialized in microservices architecture and AI-driven solutions. I have contributed to the development of scalable and secure systems using Spring Boot, Docker, and DevOps pipelines, optimizing deployment and monitoring in production. I also have experience in developing full-stack applications with Angular, ensuring seamless integration between frontend and backend. I enjoy working in a team to solve challenges!
 
 I have developed <a href="https://raquisvr.vercel.app/">RaquisVR</a>, a virtual reality simulator designed for surgical training in the technique of pedicle screw insertion in the lumbar spine. It combines VR technology and high-precision haptic devices to provide an immersive and safe experience, specifically aimed at resident physicians and junior surgeons.
 

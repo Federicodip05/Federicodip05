@@ -8,7 +8,7 @@ In my +3 years of experience, I have specialized in microservices architecture a
 I have developed <a href="https://raquisvr.vercel.app/">RaquisVR</a>, a virtual reality simulator designed for surgical training in the technique of pedicle screw insertion in the lumbar spine. It combines VR technology and high-precision haptic devices to provide an immersive and safe experience, specifically aimed at resident physicians and junior surgeons.
 
 - 🔭 &nbsp;&nbsp;I’m currently working at Hospital Italiano de Buenos Aires. <br/>
-- 🌱 &nbsp;&nbsp;I’m currently learning Kafka and Go.<br/>
+- 🌱 &nbsp;&nbsp;I’m currently learning AWS and LLMs.<br/>
 - 📄 &nbsp;&nbsp;My <a href="https://drive.google.com/file/d/1UGEfm-cZWA-YhjiExjp6qIdWWKiirGH2/view?usp=sharing">Resume</a> for more details about work experience.
 
 ### 🛠️ &nbsp;&nbsp;Languages and tools:
